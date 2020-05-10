@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "magic-string": [
+        "dist/magic-string"
+      ],
+      "magic-string/*": [
+        "dist/magic-string/*"
+      ]
+    }
   }
 }
